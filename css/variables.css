@@ -1,0 +1,5 @@
+:root {
+   --background-default: hsl(47, 88%, 63%);
+   --font-light: hsl(0, 0%, 42%);
+   --font-dark: hsl(0, 0%, 7%);
+}
