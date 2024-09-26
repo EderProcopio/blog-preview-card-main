@@ -26,4 +26,4 @@ Diferentemente do projeto anterior, que pode ser visto <a href="https://ederproc
 O desafio pedia um link que mudasse de cor ao passar o mouse, mas tomei a liberdade de acrescentar outros links, pois julguei que ficaria mais padronizado com o que é utilizado em um projeto real.
 Fiz o upload da minha versão do projeto para o GitHub Pages, que pode ser visto no link abaixo:
 
-<div align="center"> <a href="https://ederprocopio.github.io/frontend-mentor-qr-code-component/"> <img align="center" src="./design/active-status-resolve.png" alt="Imagem da página de conclusão" style="width: 250px;"> </a> </div>
+<div align="center"> <a href="https://ederprocopio.github.io/blog-preview-card-main/"> <img align="center" src="./design/active-status-resolve.png" alt="Imagem da página de conclusão" style="width: 250px;"> </a> </div>
